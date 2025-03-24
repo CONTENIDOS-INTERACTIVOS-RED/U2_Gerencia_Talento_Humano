@@ -1,7 +1,8 @@
 export default {
   global: {
-    numeroUnidad: '3',
-    tituloUnidad: 'Bioética y sostenibilidad en el desarrollo económico global',
+    numeroUnidad: '2',
+    tituloUnidad:
+      'Fundamentos de la gestión integral del talento humano en el contexto global.',
   },
   menuPrincipal: {
     menu: [
@@ -15,7 +16,8 @@ export default {
         nombreRuta: 'tema1',
         icono: 'far fa-file-alt',
         numero: '1',
-        titulo: 'Título tema',
+        titulo:
+          'Proceso adquisición de talento: perfiles de cargo, contratación laboral',
         desarrolloContenidos: true,
         subMenu: [
           {
