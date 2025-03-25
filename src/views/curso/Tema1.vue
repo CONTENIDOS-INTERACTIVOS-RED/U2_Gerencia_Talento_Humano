@@ -326,7 +326,7 @@
         .row
           .col-md-6.col-lg-7.col-xl-8.mb-4.mb-md-0.order-2
             h4 Psicotécnicas
-          p.mb-0.p-4 Analizar rasgos de personalidad y competencias cognitivas.
+            p.mb-0.p-4 Analizar rasgos de personalidad y competencias cognitivas.
           .col-md-6.col-lg-5.col-xl-4.order-1
             figure(data-aos="zoom-in")
               img(src='@/assets/curso/tema1/tab-2.png', alt='')
@@ -335,7 +335,7 @@
         .row
           .col-md-6.col-lg-7.col-xl-8.mb-4.mb-md-0.order-2
             h4 Inteligencia
-          p.mb-0.p-4 Medir capacidad analítica y resolución de problemas.
+            p.mb-0.p-4 Medir capacidad analítica y resolución de problemas.
           .col-md-6.col-lg-5.col-xl-4.order-1
             figure(data-aos="zoom-in")
               img(src='@/assets/curso/tema1/tab-3.png', alt='')
@@ -344,7 +344,7 @@
         .row
           .col-md-6.col-lg-7.col-xl-8.mb-4.mb-md-0.order-2
             h4 Assessments
-          p.mb-0.p-4 Simulación de escenarios laborales para evaluar habilidades.
+            p.mb-0.p-4 Simulación de escenarios laborales para evaluar habilidades.
           .col-md-6.col-lg-5.col-xl-4.order-1
             figure(data-aos="zoom-in")
               img(src='@/assets/curso/tema1/tab-4.png', alt='')
