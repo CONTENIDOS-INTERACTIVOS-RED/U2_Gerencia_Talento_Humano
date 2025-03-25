@@ -236,15 +236,15 @@
   
               p.d-flex.my-4
                 img.me-3(src='@/assets/componentes/link.svg' :style="{'max-width':'16px'}")
-                a(href="https://elibro.net/es/lc/tecnologicadeloriente/titulos/274611" target="_blank" rel="noopener noreferrer") De Castro Emilio Cerdá, F. J. A. L. M. (s/f). Las energías renovables en el ámbito internacional. Revistasice.com. 
+                a(href="https://elibro.net/es/ereader/tecnologicadeloriente/36741?page=9" target="_blank" rel="noopener noreferrer") Fresno Chávez, C. (2018). ¿Qué es la gestión del conocimiento?: ( ed.). Ciudad Educativa.
   
               p.d-flex.my-4
-                img.me-3(src='@/assets/template/book.svg' :style="{'max-width':'16px'}")
-                span De Janeiro, R. (1992). La declaración del Río sobre el Medio Ambiente y el Desarrollo. Río de Janeiro República Federativa del Brasil., aprobada en Estocolmo el, 16.
+                img.me-3(src='@/assets/componentes/link.svg' :style="{'max-width':'16px'}")
+                a(href="https://elibro.net/es/ereader/tecnologicadeloriente/63188?page=10" target="_blank" rel="noopener noreferrer") Mercader Juan, C. & Gairín Sallán, J. (2018). Liderazgo y gestión del talento en las organizaciones: ( ed.). LA LEY Soluciones Legales S.A.
   
               p.d-flex.my-4
                 img.me-3(src='@/assets/template/icono-yt.svg' :style="{'max-width':'16px'}")
-                a(href="https://youtu.be/QKLjwCMyv3M?si=uAWhO9tnyghljaJg" target="_blank" rel="noopener noreferrer") Innovación y sostenibilidad.
+                a(href="https://open.spotify.com/episode/33z4R82DaBoC3GgpIMU2SJ?si=adaqyiWkQ0Wzmok6HtbhGQ" target="_blank" rel="noopener noreferrer") Desarrollo organizacional 4.0 (Spotify) (2023, 06,05) La nueva organización 4.0 [audio podcast]
   
             .col-12.col-md-6.col-lg-3.offset-lg-1
               figure

@@ -277,13 +277,28 @@
                 p.mb-0.text-white Para que una organización logre una política de compensación efectiva, es esencial que combine un salario competitivo con beneficios adicionales y oportunidades de crecimiento, asegurando un ambiente de trabajo justo, atractivo y sostenible en el tiempo.
 
       
-      //////////////////////////////////////////////////////
-      //////////////////////////////////////////////////////
-      //////////////////////////////////////////////////////
-      //////////////////////////////////////////////////////
-      //////////////////////////////////////////////////////
-      //////////////////////////////////////////////////////
-      //////////////////////////////////////////////////////
+      .bg-full-width.border-top.color-primario
+        .p-4.p-md-5
+          h2(data-aos="fade-left") MATERIAL COMPLEMENTARIO
+          .row.material-complementario
+            .col-12.col-md-6.col-lg-7
+              p Los invitamos a explorar el material complementario de este curso, en esta sección encontrará recursos que le permitirán profundizar  y enriquecer su aprendizaje en los temas tratados en esta unidad.
+      
+              p.d-flex.my-4
+                img.me-3(src='@/assets/componentes/link.svg' :style="{'max-width':'16px'}")
+                a(href="https://elibro.net/es/lc/tecnologicadeloriente/titulos/121684" target="_blank" rel="noopener noreferrer") Arias Galicia, L. F. (2015). Los salarios y el compromiso de los trabajadores: más dinero = ¿mayor entrega?: ( ed.). Bonilla Artigas Editores.
+      
+              p.d-flex.my-4
+                img.me-3(src='@/assets/componentes/link.svg' :style="{'max-width':'16px'}")
+                a(href="https://elibro.net/es/ereader/tecnologicadeloriente/39377?page=5" target="_blank" rel="noopener noreferrer") Juárez Hernández, J. O. (2015). Administración de la compensación, sueldos, salarios incentivos y prestaciones: ( ed.). Grupo Editorial Patria.
+      
+              p.d-flex.my-4
+                img.me-3(src='@/assets/template/icono-yt.svg' :style="{'max-width':'16px'}")
+                a(href="https://youtu.be/qHY4uuvDFNY?si=JYw5mILpbd5dpGN" target="_blank" rel="noopener noreferrer") López, L. (2020, 2 de mayo) Proceso de retención de personal - Compensación y Salarios. [video]. Youtube.
+      
+            .col-12.col-md-6.col-lg-3.offset-lg-1
+              figure
+                img(src='@/assets/componentes/material-complementario.svg', alt='')
   
   </template>
 
