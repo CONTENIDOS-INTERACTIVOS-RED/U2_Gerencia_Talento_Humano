@@ -560,7 +560,7 @@
 
             p.d-flex.my-4
               img.me-3(src='@/assets/template/icono-yt.svg' :style="{'max-width':'16px'}")
-              a(href="https://open.spotify.com/episode/6zlurgtM8U9qEyei5TNyNJ?si=39QPgmbBRcmONscNKdkYIA" target="_blank" rel="noopener noreferrer") Recursos y Humanos (Spotify) (2021, 07,29) Reclutamiento y selección de personal [audio podcast]
+              a(href="https://youtu.be/lGtwLeMBL9M?si=hSLCUrG2MxP4BYB8" target="_blank" rel="noopener noreferrer") VOS TV (2021, 24 de abril) RSE: Como hacer el proceso de reclutamiento y selección de personal [video] YouTube
 
           .col-12.col-md-6.col-lg-3.offset-lg-1
             figure

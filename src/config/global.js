@@ -2,7 +2,7 @@ export default {
   global: {
     numeroUnidad: '2',
     tituloUnidad:
-      'Fundamentos de la gestión integral del talento humano en el contexto global.',
+      'Proceso integral del talento humano para la generación de valor',
   },
   menuPrincipal: {
     menu: [
